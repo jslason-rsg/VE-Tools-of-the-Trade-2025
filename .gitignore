@@ -1,0 +1,18 @@
+
+# Add files and directories to ignore
+
+# Virtual environment
+.venv/
+venv/
+
+# User data
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
+# Excel and other Data
+analysis/
+#*.xlsx
+#.csv
